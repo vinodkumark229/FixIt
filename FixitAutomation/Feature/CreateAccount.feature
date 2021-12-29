@@ -14,3 +14,5 @@ Scenario Outline: Create amazon account with  given values
       Examples:
       |usernmae|email|password|repassword|
       |vinod229|vinodkumark33@yahoo.com|vinod229|vinod229|
+      |usernmae|email|password|repassword|
+      |sneha|snehanair123@yahoo.com|vinod229|vinod229|
